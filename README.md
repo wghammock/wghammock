@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wghammock
-- 👀 I’m interested in code, design, comicbooks,and football
+- 👀 I’m interested in code, design, old comicbooks, and football
 - 🌱 I’m currently learning React, ( I'm kind of considering Kotlin or GoLang next)
 - 💞️ I’m looking to collaborate on interesting challenges
 - 📫 How to reach me :: https://www.linkedin.com/in/william-hammock-a97197110/
