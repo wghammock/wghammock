@@ -4,7 +4,7 @@
 - 💞️ I’m always looking to collaborate on interesting challenges !!!
 - 📫 How to reach me :: https://www.linkedin.com/in/william-hammock-a97197110/
 
-**Note: some years/months I've been working with clients via AWS code commit, GitLab, or bitbucket, so not all years show my contribution counts.**
+**Note: For many years now I've been working with clients via AWS code commit, GitLab, or bitbucket, so not all years show my contribution counts.  Most active years on github where 2015, 2016.**
 
 <!---
 wghammock/wghammock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
